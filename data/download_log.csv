@@ -1,0 +1,8 @@
+file,source_url,bytes_or_rows,last_modified_or_note,access_date
+SDWA_latest_downloads.zip,https://echo.epa.gov/files/echodownloads/SDWA_latest_downloads.zip,558010511,"Wed, 14 Oct 2026 01:15:30 GMT",2026-10-23
+SVI_2022_US_county.csv,https://svi.cdc.gov/Documents/Data/2022/csv/states_counties/SVI_2022_US_county.csv,2301480,"Mon, 25 Nov 2024 20:02:48 GMT",2026-10-23
+Ruralurbancontinuumcodes2023.csv,https://www.ers.usda.gov/media/5768/2023-rural-urban-continuum-codes.csv,629322,,2026-10-23
+cb_2022_us_county_500k.zip,https://www2.census.gov/geo/tiger/GENZ2022/shp/cb_2022_us_county_500k.zip,11656552,"Mon, 17 Apr 2023 18:49:17 GMT",2026-10-23
+SDWA_PUB_WATER_SYSTEMS_TXLA.csv,subset of SDWA zip,21799,rows kept,2026-10-23
+SDWA_GEOGRAPHIC_AREAS_TXLA.csv,subset of SDWA zip,21769,rows kept,2026-10-23
+SDWA_VIOLATIONS_ENFORCEMENT_TXLA.csv,subset of SDWA zip,1235023,rows kept,2026-10-23

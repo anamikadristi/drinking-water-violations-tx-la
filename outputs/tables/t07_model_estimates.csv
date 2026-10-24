@@ -1,0 +1,81 @@
+term,estimate,ratio,ci_low,ci_high,p_value,model,n,events
+"C(size3)[T.Small (501-3,300)]",-0.358,0.699,0.452,1.083,0.109,"NB2 count, all health-based (IRR)",,
+"C(size3)[T.Medium (3,301-10,000)]",-0.607,0.545,0.297,1.0,0.0502,"NB2 count, all health-based (IRR)",,
+"C(size3)[T.Large (10,001-100,000)]",-1.144,0.318,0.176,0.576,0.000156,"NB2 count, all health-based (IRR)",,
+"C(size3)[T.Very large (>100,000)]",-2.272,0.103,0.042,0.252,6.07e-07,"NB2 count, all health-based (IRR)",,
+C(source)[T.Groundwater (purchased)],-0.663,0.515,0.298,0.89,0.0174,"NB2 count, all health-based (IRR)",,
+C(source)[T.Surface water],1.382,3.981,2.535,6.253,2.01e-09,"NB2 count, all health-based (IRR)",,
+C(source)[T.Surface water (purchased)],-0.013,0.987,0.659,1.478,0.95,"NB2 count, all health-based (IRR)",,
+C(state)[T.LA],0.856,2.354,1.3,4.261,0.00471,"NB2 count, all health-based (IRR)",,
+C(metro)[T.Nonmetro],0.731,2.077,1.159,3.723,0.0141,"NB2 count, all health-based (IRR)",,
+svi10,0.089,1.093,0.941,1.269,0.245,"NB2 count, all health-based (IRR)",,
+"C(size3)[T.Small (501-3,300)]",-0.098,0.907,0.742,1.107,0.336,"Logistic, any health-based (OR)",,
+"C(size3)[T.Medium (3,301-10,000)]",-0.273,0.761,0.566,1.024,0.0716,"Logistic, any health-based (OR)",,
+"C(size3)[T.Large (10,001-100,000)]",-0.491,0.612,0.447,0.838,0.00216,"Logistic, any health-based (OR)",,
+"C(size3)[T.Very large (>100,000)]",-1.42,0.242,0.112,0.519,0.00027,"Logistic, any health-based (OR)",,
+C(source)[T.Groundwater (purchased)],-0.435,0.647,0.401,1.044,0.0743,"Logistic, any health-based (OR)",,
+C(source)[T.Surface water],2.015,7.498,5.213,10.785,1.76e-27,"Logistic, any health-based (OR)",,
+C(source)[T.Surface water (purchased)],0.787,2.196,1.743,2.768,2.62e-11,"Logistic, any health-based (OR)",,
+C(state)[T.LA],1.746,5.729,4.02,8.165,4.56e-22,"Logistic, any health-based (OR)",,
+C(metro)[T.Nonmetro],0.727,2.069,1.412,3.033,0.000194,"Logistic, any health-based (OR)",,
+svi10,0.062,1.064,0.968,1.17,0.201,"Logistic, any health-based (OR)",,
+"C(size3)[T.Small (501-3,300)]",-0.367,0.693,0.451,1.064,0.0938,"NB2 count, SVI quartiles (IRR)",,
+"C(size3)[T.Medium (3,301-10,000)]",-0.606,0.545,0.304,0.978,0.042,"NB2 count, SVI quartiles (IRR)",,
+"C(size3)[T.Large (10,001-100,000)]",-1.108,0.33,0.185,0.589,0.000174,"NB2 count, SVI quartiles (IRR)",,
+"C(size3)[T.Very large (>100,000)]",-2.275,0.103,0.043,0.246,3.18e-07,"NB2 count, SVI quartiles (IRR)",,
+C(source)[T.Groundwater (purchased)],-0.674,0.51,0.3,0.864,0.0124,"NB2 count, SVI quartiles (IRR)",,
+C(source)[T.Surface water],1.38,3.974,2.539,6.221,1.57e-09,"NB2 count, SVI quartiles (IRR)",,
+C(source)[T.Surface water (purchased)],-0.031,0.97,0.656,1.433,0.878,"NB2 count, SVI quartiles (IRR)",,
+C(state)[T.LA],0.879,2.409,1.384,4.194,0.00188,"NB2 count, SVI quartiles (IRR)",,
+C(svi_q)[T.Q2],-0.937,0.392,0.126,1.224,0.107,"NB2 count, SVI quartiles (IRR)",,
+C(svi_q)[T.Q3],-0.624,0.536,0.19,1.508,0.237,"NB2 count, SVI quartiles (IRR)",,
+C(svi_q)[T.Q4 (most)],-0.281,0.755,0.246,2.316,0.623,"NB2 count, SVI quartiles (IRR)",,
+C(metro)[T.Nonmetro],0.725,2.064,1.186,3.594,0.0104,"NB2 count, SVI quartiles (IRR)",,
+"C(size3)[T.Small (501-3,300)]",-0.322,0.725,0.463,1.136,0.16,"NB2 count, excluding SWTR/GWR treatment-rule violations (IRR)",,
+"C(size3)[T.Medium (3,301-10,000)]",-0.624,0.536,0.285,1.006,0.0522,"NB2 count, excluding SWTR/GWR treatment-rule violations (IRR)",,
+"C(size3)[T.Large (10,001-100,000)]",-1.171,0.31,0.164,0.585,0.000302,"NB2 count, excluding SWTR/GWR treatment-rule violations (IRR)",,
+"C(size3)[T.Very large (>100,000)]",-2.437,0.087,0.031,0.246,3.73e-06,"NB2 count, excluding SWTR/GWR treatment-rule violations (IRR)",,
+C(source)[T.Groundwater (purchased)],-0.595,0.552,0.306,0.994,0.0476,"NB2 count, excluding SWTR/GWR treatment-rule violations (IRR)",,
+C(source)[T.Surface water],1.138,3.12,1.939,5.022,2.76e-06,"NB2 count, excluding SWTR/GWR treatment-rule violations (IRR)",,
+C(source)[T.Surface water (purchased)],0.009,1.009,0.673,1.514,0.965,"NB2 count, excluding SWTR/GWR treatment-rule violations (IRR)",,
+C(state)[T.LA],0.442,1.556,0.79,3.067,0.201,"NB2 count, excluding SWTR/GWR treatment-rule violations (IRR)",,
+C(metro)[T.Nonmetro],0.739,2.095,1.154,3.804,0.0151,"NB2 count, excluding SWTR/GWR treatment-rule violations (IRR)",,
+svi10,0.093,1.098,0.942,1.279,0.233,"NB2 count, excluding SWTR/GWR treatment-rule violations (IRR)",,
+"C(size3)[T.Small (501-3,300)]",-0.509,0.601,0.354,1.019,0.0589,"NB2 count, TX only (IRR)",,
+"C(size3)[T.Medium (3,301-10,000)]",-0.643,0.525,0.255,1.081,0.0804,"NB2 count, TX only (IRR)",,
+"C(size3)[T.Large (10,001-100,000)]",-1.21,0.298,0.145,0.612,0.000982,"NB2 count, TX only (IRR)",,
+"C(size3)[T.Very large (>100,000)]",-2.396,0.091,0.034,0.246,2.3e-06,"NB2 count, TX only (IRR)",,
+C(source)[T.Groundwater (purchased)],-0.829,0.436,0.204,0.935,0.033,"NB2 count, TX only (IRR)",,
+C(source)[T.Surface water],1.453,4.276,2.582,7.081,1.63e-08,"NB2 count, TX only (IRR)",,
+C(source)[T.Surface water (purchased)],-0.005,0.995,0.647,1.53,0.982,"NB2 count, TX only (IRR)",,
+C(metro)[T.Nonmetro],0.791,2.205,1.118,4.348,0.0225,"NB2 count, TX only (IRR)",,
+svi10,0.068,1.07,0.909,1.26,0.416,"NB2 count, TX only (IRR)",,
+"C(size3)[T.Small (501-3,300)]",0.284,1.329,0.914,1.932,0.136,"NB2 count, LA only (IRR)",,
+"C(size3)[T.Medium (3,301-10,000)]",-0.447,0.639,0.431,0.947,0.0257,"NB2 count, LA only (IRR)",,
+"C(size3)[T.Large (10,001-100,000)]",-0.875,0.417,0.26,0.669,0.000285,"NB2 count, LA only (IRR)",,
+"C(size3)[T.Very large (>100,000)]",-1.764,0.171,0.025,1.16,0.0706,"NB2 count, LA only (IRR)",,
+C(source)[T.Groundwater (purchased)],-0.382,0.682,0.348,1.339,0.266,"NB2 count, LA only (IRR)",,
+C(source)[T.Surface water],0.989,2.688,1.618,4.463,0.000133,"NB2 count, LA only (IRR)",,
+C(source)[T.Surface water (purchased)],-0.301,0.74,0.397,1.38,0.343,"NB2 count, LA only (IRR)",,
+C(metro)[T.Nonmetro],0.338,1.402,0.752,2.617,0.288,"NB2 count, LA only (IRR)",,
+svi10,0.24,1.271,1.086,1.489,0.00286,"NB2 count, LA only (IRR)",,
+C(source)[T.Groundwater (purchased)],-0.639,0.528,0.175,1.595,0.257,"Logistic, any Arsenic (OR)",5177.0,120.0
+C(source)[T.Surface water],-1.032,0.356,0.12,1.055,0.0624,"Logistic, any Arsenic (OR)",5177.0,120.0
+C(source)[T.Surface water (purchased)],-1.476,0.229,0.074,0.706,0.0103,"Logistic, any Arsenic (OR)",5177.0,120.0
+C(state)[T.LA],-1.149,0.317,0.098,1.021,0.0542,"Logistic, any Arsenic (OR)",5177.0,120.0
+C(metro)[T.Nonmetro],-0.143,0.866,0.362,2.075,0.748,"Logistic, any Arsenic (OR)",5177.0,120.0
+log10pop,0.009,1.009,0.734,1.389,0.954,"Logistic, any Arsenic (OR)",5177.0,120.0
+svi10,0.304,1.356,1.055,1.742,0.0173,"Logistic, any Arsenic (OR)",5177.0,120.0
+C(source)[T.Groundwater (purchased)],0.751,2.119,0.29,15.489,0.459,"Logistic, any Nitrate/nitrite (Texas only) (OR)",4298.0,84.0
+C(source)[T.Surface water],-1.074,0.342,0.052,2.241,0.263,"Logistic, any Nitrate/nitrite (Texas only) (OR)",4298.0,84.0
+C(source)[T.Surface water (purchased)],0.756,2.129,1.064,4.258,0.0327,"Logistic, any Nitrate/nitrite (Texas only) (OR)",4298.0,84.0
+C(metro)[T.Nonmetro],0.79,2.203,0.809,5.996,0.122,"Logistic, any Nitrate/nitrite (Texas only) (OR)",4298.0,84.0
+log10pop,-0.948,0.388,0.267,0.562,5.58e-07,"Logistic, any Nitrate/nitrite (Texas only) (OR)",4298.0,84.0
+svi10,0.041,1.042,0.855,1.271,0.682,"Logistic, any Nitrate/nitrite (Texas only) (OR)",4298.0,84.0
+C(source)[T.Groundwater (purchased)],0.156,1.169,0.652,2.096,0.599,"Logistic, any Disinfection byproducts (OR)",5177.0,743.0
+C(source)[T.Surface water],2.688,14.699,9.283,23.275,2.05e-30,"Logistic, any Disinfection byproducts (OR)",5177.0,743.0
+C(source)[T.Surface water (purchased)],1.813,6.127,4.045,9.279,1.15e-17,"Logistic, any Disinfection byproducts (OR)",5177.0,743.0
+C(state)[T.LA],1.312,3.713,2.157,6.39,2.19e-06,"Logistic, any Disinfection byproducts (OR)",5177.0,743.0
+C(metro)[T.Nonmetro],0.925,2.522,1.461,4.353,0.000894,"Logistic, any Disinfection byproducts (OR)",5177.0,743.0
+log10pop,-0.113,0.893,0.78,1.022,0.101,"Logistic, any Disinfection byproducts (OR)",5177.0,743.0
+svi10,0.038,1.038,0.913,1.181,0.569,"Logistic, any Disinfection byproducts (OR)",5177.0,743.0

@@ -1,0 +1,11 @@
+state,size_class,gw_systems,pct_any_arsenic,pct_any_nitrate
+LA,"Large (10,001-100,000)",61,0.0,0.0
+LA,"Medium (3,301-10,000)",148,1.4,0.0
+LA,"Small (501-3,300)",397,1.0,0.0
+LA,"Very large (>100,000)",2,0.0,0.0
+LA,Very small (<=500),367,1.9,0.3
+TX,"Large (10,001-100,000)",87,3.4,0.0
+TX,"Medium (3,301-10,000)",400,3.0,0.2
+TX,"Small (501-3,300)",1150,2.9,1.1
+TX,"Very large (>100,000)",1,0.0,0.0
+TX,Very small (<=500),1707,3.2,3.2

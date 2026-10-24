@@ -1,0 +1,27 @@
+contaminant,state,county_fips,COUNTY_SERVED,violations,systems
+Arsenic,TX,48303,Lubbock,387,13
+Arsenic,TX,48309,McLennan,323,9
+Arsenic,TX,48145,Falls,155,2
+Arsenic,TX,48131,Duval,128,4
+Arsenic,TX,48373,Polk,123,8
+Arsenic,TX,48165,Gaines,98,3
+Arsenic,TX,48305,Lynn,88,2
+Arsenic,LA,22099,St. Martin Parish,80,6
+Arsenic,TX,48329,Midland,79,10
+Arsenic,TX,48377,Presidio,77,2
+Nitrate,TX,48329,Midland,269,14
+Nitrate,TX,48303,Lubbock,185,8
+Nitrate,TX,48487,Wilbarger,82,5
+Nitrate,TX,48135,Ector,66,4
+Nitrate,TX,48191,Hall,65,3
+Nitrate,TX,48305,Lynn,62,3
+Nitrate,TX,48115,Dawson,61,3
+Nitrate,TX,48095,Concho,44,1
+Nitrate,TX,48045,Briscoe,43,1
+Nitrate,TX,48219,Hockley,42,2
+Nitrite,TX,48083,Coleman,2,1
+Nitrite,TX,48151,Fisher,2,1
+Nitrite,LA,22055,Lafayette Parish,1,1
+Nitrite,TX,48059,Callahan,1,1
+Nitrite,TX,48231,Hunt,1,1
+Nitrite,TX,48251,Johnson,1,1

@@ -1,0 +1,9 @@
+state,source,systems,population_served,system_years,hb_violations,systems_with_any,rate_per_100_system_years,pct_systems_with_any,population_at_systems_with_any,pct_population_at_systems_with_any
+LA,Groundwater,866,3343858,8743.4,5557,495,63.56,57.2,1421018,42.5
+LA,Groundwater (purchased),124,172065,1138.2,579,55,50.87,44.4,92380,53.7
+LA,Surface water,48,1762934,521.5,551,40,105.66,83.3,1163293,66.0
+LA,Surface water (purchased),42,83898,365.4,195,22,53.37,52.4,49060,58.5
+TX,Groundwater,3376,5631472,34555.3,10170,715,29.43,21.2,1026680,18.2
+TX,Groundwater (purchased),249,435619,2008.6,358,33,17.82,13.3,19406,4.5
+TX,Surface water,347,14775786,3754.0,2751,201,73.28,57.9,8419726,57.0
+TX,Surface water (purchased),1092,12350936,11196.8,2505,338,22.37,31.0,1648644,13.3

@@ -1,0 +1,6 @@
+contaminant,state,violations,systems,counties,median_reported_mg_L,p90_reported_mg_L,mcl_mg_L,median_ratio_to_mcl,pct_groundwater_systems
+Arsenic,LA,128,13,7,0.014,0.0193,0.01,1.4,100.0
+Arsenic,TX,2499,126,43,0.014,0.027,0.01,1.4,89.7
+Nitrate,TX,1209,92,41,14.0,19.0,10.0,1.4,80.4
+Nitrite,LA,1,1,1,2.1,2.1,1.0,2.1,100.0
+Nitrite,TX,7,5,5,2.0,2.12,1.0,2.0,0.0

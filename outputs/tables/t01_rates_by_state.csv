@@ -1,0 +1,4 @@
+state,systems,population_served,system_years,hb_violations,systems_with_any,rate_per_100_system_years,pct_systems_with_any,population_at_systems_with_any,pct_population_at_systems_with_any
+LA,1080,5362755,10768.6,6882,612,63.91,56.7,2725751,50.8
+TX,5064,33193813,51514.6,15784,1287,30.64,25.4,11114456,33.5
+All,6144,38556568,62283.2,22666,1899,36.39,30.9,13840207,35.9

@@ -1,0 +1,4 @@
+NB2 model: n=5716 systems, 318 counties, alpha=8.322, county-clustered SE, offset log(system-years).
+Logistic model: n=5177 systems in operation for the whole 2015-2025 window, events=1716, pseudo R2=0.121.
+Convergence: {'NB2 main': True, 'NB2 no TT': True, 'NB2 SVI quartiles': True, 'Logistic any': True, 'Logistic Arsenic': True, 'Logistic Nitrate/nitrite (Texas only)': True, 'Logistic Disinfection byproducts': True}
+Reference levels: very small size, groundwater, Texas, metro county. svi10 = per 0.1 of national county SVI percentile rank.

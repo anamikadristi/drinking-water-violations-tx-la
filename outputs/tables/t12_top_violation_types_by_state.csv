@@ -1,0 +1,25 @@
+state,group,contaminant,VIOLATION_CODE,violation_desc,violations
+LA,Disinfection byproducts,TTHM,02,"Maximum Contaminant Level Violation, Average",3106
+LA,Surface/ground water treatment,Groundwater Rule,45,Failure To Address Deficiency,2033
+LA,Disinfection byproducts,Total Haloacetic Acids (HAA5),02,"Maximum Contaminant Level Violation, Average",930
+LA,LCRR service line inventory,LEAD AND COPPER RULE REVISIONS,2E,LSL Inventory,185
+LA,Arsenic,Arsenic,02,"Maximum Contaminant Level Violation, Average",128
+LA,Coliform (TCR/RTCR),Revised Total Coliform Rule,2C,"Treatment Technique, Corrective/Expedited Actions (RTCR)",96
+LA,Disinfection byproducts,"CARBON, TOTAL",46,Treatment Technique Precursor Removal,76
+LA,Coliform (TCR/RTCR),Coliform (TCR),22,"Maximum Contaminant Level Violation, Monthly (TCR)",71
+LA,Surface/ground water treatment,Interim Enhanced Surface Water Treatment Rule,44,Monthly Turbidity Exceed (Enhanced SWTR),65
+LA,Coliform (TCR/RTCR),Revised Total Coliform Rule,2A,"Treatment Technique, Level 1 Assessment (RTCR)",59
+LA,Surface/ground water treatment,Interim Enhanced Surface Water Treatment Rule,43,Single Turbidity Exceed (Enhanced SWTR),57
+LA,Surface/ground water treatment,Surface Water Treatment Rule,41,Treatment Technique (SWTR and GWR),57
+TX,Disinfection byproducts,TTHM,02,"Maximum Contaminant Level Violation, Average",4821
+TX,Arsenic,Arsenic,02,"Maximum Contaminant Level Violation, Average",2499
+TX,Radionuclides,"Gross Alpha, Excl. Radon and U",02,"Maximum Contaminant Level Violation, Average",1356
+TX,Nitrate/nitrite,Nitrate,01,"Maximum Contaminant Level Violation, Single Sample",1209
+TX,Other inorganics,Fluoride,02,"Maximum Contaminant Level Violation, Average",1205
+TX,Radionuclides,Combined Radium (-226 and -228),02,"Maximum Contaminant Level Violation, Average",1140
+TX,Disinfection byproducts,Total Haloacetic Acids (HAA5),02,"Maximum Contaminant Level Violation, Average",1132
+TX,LCRR service line inventory,LEAD AND COPPER RULE REVISIONS,2E,LSL Inventory,1060
+TX,Surface/ground water treatment,Long Term 2 Enhanced Surface Water Treatment Rule,41,Treatment Technique (SWTR and GWR),419
+TX,Lead and copper,Lead and Copper Rule,57,OCCT/SOWT Study/Recommendation,363
+TX,Radionuclides,Combined Uranium,02,"Maximum Contaminant Level Violation, Average",344
+TX,Surface/ground water treatment,Interim Enhanced Surface Water Treatment Rule,44,Monthly Turbidity Exceed (Enhanced SWTR),278
